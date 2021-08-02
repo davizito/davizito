@@ -1,10 +1,8 @@
-#  About Me 
-- I live in Brazil
-- Hi my name is @davizito
-- I'm interested in learning programming.
-- I'm currently learning: HTML and CSS.
+## Oi,eu sou o davizito
 
-<!---
-davizito/davizito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+
+![davizito GitHub stats](https://github-readme-stats.vercel.app/api?username=davizito&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davizito&layout=compact&theme=dracula&show_icons=true)](https://github.com/davizito/github-readmestats)
+
+</div>
